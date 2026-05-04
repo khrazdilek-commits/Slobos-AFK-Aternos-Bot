@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hrazda_-DTD8.aternos.me:21701",
+    "ip": "hrazda_-DTD8.aternos.me",
     "port": 21701,
     "version": "1.21.11",
     "try-creative": false
